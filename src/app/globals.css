@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title {
+  font-size: 128px;
+  font-weight: 900;
+  line-height: 185px;
+  text-align: center;
+  ;
+}
+
+.container {
+  width: 900px;
+  display: flex;
+  justify-self: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card-container {
+  width: 440px;
+}
+
+.food-header {
+  width: 100%;
+  padding: 12px;
+  background-color: #351B1A;
+}
+
+.food-header p {
+  color: #957A7C;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.36px;
+}
+
+.food {
+  width: 100%;
+  margin-top: 15px;
+}
+
+.food-title {
+  display: flex;
+  justify-content: space-between;
+  justify-self: center;
+  width: 416px;
+}
+
+.food-title h6 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.36px;
+}
+
+.food-title p {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.36px;
+}
+
+.food-text {
+  width: 416px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.36px;
+  margin-top: 10px;
+  display: flex;
+  justify-self: center;
+}
