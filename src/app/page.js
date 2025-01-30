@@ -35,7 +35,7 @@ const menu = [
 
 
 function CardFood(props) {
-  
+
   return (
     <div className="card-container">
       <div className="food-header">
