@@ -35,7 +35,6 @@ const menu = [
 
 
 function CardFood(props) {
-
   return (
     <div className="card-container">
       <div className="food-header">
@@ -78,7 +77,6 @@ export default function Home() {
     <div>
       <p className="title">pranzo</p>
       <div className="container">
-        {/* <CardFood></CardFood> */}
         {card}
       </div>
     </div>
