@@ -26,20 +26,6 @@ const DATA = [
         price: "$1", stocked: true, name: "Peas"
       }
     ]
-  },
-  {
-    category: "Vegetables",
-    items: [
-      {
-        price: "$2", stocked: true, name: "Spinach"
-      },
-      {
-        price: "$4", stocked: false, name: "Pumpkin"
-      },
-      {
-        price: "$1", stocked: true, name: "Peas"
-      }
-    ]
   }
 ]
 
