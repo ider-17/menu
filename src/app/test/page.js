@@ -87,7 +87,7 @@ function Searchbar() {
 export default function Home() {
   return (
     <div>
-      <div style={{ width: 300, border: "1px solid", margin: 50, padding: 10 }}>
+      <div style={{ width: 250, border: "1px solid", margin: 50, padding: 10 }}>
         <Searchbar />
         <ProductTable />
       </div>
